@@ -1,0 +1,15 @@
+/Users/user/Downloads/TaskManager/TaskManager/bin/Debug/net6.0/TaskManager
+/Users/user/Downloads/TaskManager/TaskManager/bin/Debug/net6.0/TaskManager.deps.json
+/Users/user/Downloads/TaskManager/TaskManager/bin/Debug/net6.0/TaskManager.runtimeconfig.json
+/Users/user/Downloads/TaskManager/TaskManager/bin/Debug/net6.0/TaskManager.dll
+/Users/user/Downloads/TaskManager/TaskManager/bin/Debug/net6.0/TaskManager.pdb
+/Users/user/Downloads/TaskManager/TaskManager/obj/Debug/net6.0/TaskManager.csproj.AssemblyReference.cache
+/Users/user/Downloads/TaskManager/TaskManager/obj/Debug/net6.0/TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Downloads/TaskManager/TaskManager/obj/Debug/net6.0/TaskManager.AssemblyInfoInputs.cache
+/Users/user/Downloads/TaskManager/TaskManager/obj/Debug/net6.0/TaskManager.AssemblyInfo.cs
+/Users/user/Downloads/TaskManager/TaskManager/obj/Debug/net6.0/TaskManager.csproj.CoreCompileInputs.cache
+/Users/user/Downloads/TaskManager/TaskManager/obj/Debug/net6.0/TaskManager.dll
+/Users/user/Downloads/TaskManager/TaskManager/obj/Debug/net6.0/refint/TaskManager.dll
+/Users/user/Downloads/TaskManager/TaskManager/obj/Debug/net6.0/TaskManager.pdb
+/Users/user/Downloads/TaskManager/TaskManager/obj/Debug/net6.0/TaskManager.genruntimeconfig.cache
+/Users/user/Downloads/TaskManager/TaskManager/obj/Debug/net6.0/ref/TaskManager.dll
